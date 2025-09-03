@@ -21,7 +21,7 @@ class StockViewController: UIViewController {
 
         // Add stock labels
         let stocks = [
-            ("AAPL", "$191.50"),
+            ("AAPL", "$191.55554"),
             ("GOOGL", "$2745.90"),
             ("TSLA", "$720.10")
         ]
